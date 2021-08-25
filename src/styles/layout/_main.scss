@@ -1,4 +1,7 @@
-body{
+body {
   padding: var(--space-l);
   background-color: var(--very-dark-blue);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
