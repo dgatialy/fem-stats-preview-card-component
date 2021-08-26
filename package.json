@@ -2,16 +2,16 @@
   "name": "fem-stats-preview-card-component",
   "version": "1.0.0",
   "description": "fem-stats-preview-card-component",
-  "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
     "build": "parcel build index.html"
   },
-  "dependencies": {
-    "parcel-bundler": "^1.6.1"
-  },
   "devDependencies": {
-    "@babel/core": "7.2.0"
+    "@babel/core": "7.2.0",
+    "@parcel/transformer-image": "^2.0.0-rc.0",
+    "@parcel/transformer-sass": "^2.0.0-rc.0",
+    "parcel": "^2.0.0-rc.0",
+    "sass": "^1.38.1"
   },
   "resolutions": {
     "@babel/preset-env": "7.13.8"
