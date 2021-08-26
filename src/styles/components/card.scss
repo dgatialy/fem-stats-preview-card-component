@@ -50,7 +50,7 @@
     .card__header {
       padding-bottom: var(--space-m);
 
-      .card__title {
+      .card__title, .card__title h1 {
         font-size: var(--step-5);
         font-weight: 700;
         line-height: 1.3;
