@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/dgatialy/fem-stats-preview-card-component)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-site-using-sass-EgoEUZSLr)
 - [Live Site URL](https://modest-joliot-17adc9.netlify.app/)
 
 ## My process
